@@ -1,2 +1,4 @@
 # YetGenPythonJump
-Bu repo jump programı için açılmıştır.
+Bu repo tekrar kurulum sonrasi açilmiştıir.
+Gelişime açik yönlerimin farkindayim.
+Bende neden aynısı olmuyor?
