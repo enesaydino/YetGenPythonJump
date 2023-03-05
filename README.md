@@ -1,4 +1,4 @@
 # YetGenPythonJump
 Bu repo tekrar kurulum sonrasi açilmiştıir.
 Gelişime açik yönlerimin farkindayim.
-Bende neden aynısı olmuyor?
+Bu basamağı başarı ile yapabildiğim için mutluyum.
