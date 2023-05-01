@@ -1,0 +1,12 @@
+kullanici adi: DHDH DFHDH
+kullanicinin yas, boy, kilo bilgisi: 23, 188.0, 105.0
+kullanýcýnýn vki: 0.0
+deger araligi: zayif
+olusturma tarihi: Tue May  2 00:53:35 2023
+********************
+kullanici adi: ÞLKMÞL
+kullanicinin yas, boy, kilo bilgisi: 23, 1.86, 105.0
+kullanýcýnýn vki: 30.4
+deger araligi: Obez
+olusturma tarihi: Tue May  2 00:57:42 2023
+********************
